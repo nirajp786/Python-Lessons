@@ -1,0 +1,6 @@
+String
+Hey!
+Hello!
+Welcome
+Bye
+ZEBRA!#
