@@ -39,4 +39,3 @@ print(df1.Price)
 #First      2
 #Second    10
 #Name: Price, dtype: int64
-list1 = [1,2,3]
